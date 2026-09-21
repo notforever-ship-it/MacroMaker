@@ -1,0 +1,13 @@
+## Interface: 11200
+## Title: Macro Maker
+## Notes: Build macros for any class without typing code: pick what the button should do, click your spells, press Create. /mm
+## Author: stealthzi
+## Version: 1.0.0
+## SavedVariables: MacroMakerDB
+
+Core.lua
+Helpers.lua
+Recipes.lua
+UI.lua
+Help.lua
+Minimap.lua
