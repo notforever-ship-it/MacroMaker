@@ -103,7 +103,7 @@ local function CreateHelp()
 
   local credit = frame:CreateFontString(nil, "ARTWORK", "GameFontHighlightSmall")
   credit:SetPoint("BOTTOM", frame, "BOTTOM", 0, 26)
-  credit:SetText(GREY .. "Made by " .. END .. "|cffabd473stealthzi" .. END)
+  credit:SetText(GREY .. "Made by " .. END .. "|cffabd473stealthzi" .. END .. GREY .. "   v" .. MM.VERSION .. END)
 end
 
 function MM.ShowHelp()

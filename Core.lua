@@ -2,7 +2,7 @@
 
 MacroMaker = {}
 local MM = MacroMaker
-MM.VERSION = "1.0.0"
+MM.VERSION = "1.0.1"
 
 -- The functions macros call. The name is short on purpose: a macro only holds 255 characters.
 MMK = {}

@@ -2,7 +2,7 @@
 ## Title: Macro Maker
 ## Notes: Build macros for any class without typing code: pick what the button should do, click your spells, press Create. /mm
 ## Author: stealthzi
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables: MacroMakerDB
 
 Core.lua
